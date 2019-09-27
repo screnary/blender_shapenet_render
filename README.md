@@ -1,4 +1,5 @@
 This is the python code for rendering 3D shapes from ShapeNetCore.v1.
+
 Code is slightly modified from intrinsic-networks (https://github.com/JannerM/intrinsics-network) of a paper in NIPS2017 'Self-Supervised Intrinsic Image Decomposition' (http://people.csail.mit.edu/janner/papers/intrinsic_nips_2017.pdf).
 
 My environments:
